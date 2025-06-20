@@ -1,4 +1,7 @@
 *:Zone.Identifier
+node_modules/
+static/CACHE/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
