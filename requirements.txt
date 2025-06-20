@@ -1,0 +1,4 @@
+Django
+django-compressor
+dotenv
+psycopg[binary]
